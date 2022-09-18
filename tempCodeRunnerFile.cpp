@@ -1,0 +1,2 @@
+
+        maxi = max(maxi, temp);
